@@ -3,6 +3,8 @@
 Slime Desktop Pet Editor(史萊姆桌寵編輯器)的官方插件。
 Official plugins for Slime Desktop Pet Editor.
 
+主程式 Main app:[SDPE - Slime Desktop Pet Editor](https://github.com/MaltoseSlime/SDPE---Slime-Desktop-Pet-Editor)
+
 ## 插件清單 Plugin list
 
 <!-- plugin-list:start -->
