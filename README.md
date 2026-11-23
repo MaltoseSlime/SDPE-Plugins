@@ -20,5 +20,17 @@ Official plugins for Slime Desktop Pet Editor.
 已安裝的插件可以在同一頁按「檢查更新」。測試版(版本號結尾是 `b`,例如 `1.2.0b`)只有勾了「檢查更新時也通知測試版」才會通知,可能還有問題。
 Installed plugins can be checked for updates on the same page. Beta versions (ending in `b`, e.g. `1.2.0b`) are only announced if you check "Also notify me about beta versions", and may still have problems.
 
+## 授權與署名 License & credits
+
+插件的程式碼以 [MIT 授權](LICENSE)釋出,與主程式相同([中文譯本](LICENSE.zh-TW.md))。插件附帶的第三方資料維持各自原本的授權,全文在每個插件安裝檔內的 `THIRD_PARTY_LICENSES.txt`;改編自 CC BY-SA 資料的部分同樣以 CC BY-SA 釋出。
+Plugin code is released under the [MIT License](LICENSE), same as the app. Third-party data bundled with a plugin keeps its own license; full texts are in `THIRD_PARTY_LICENSES.txt` inside each plugin package, and material adapted from CC BY-SA data is likewise released under CC BY-SA.
+
+<!-- plugin-credits:start -->
+(還沒有發佈的插件。No plugins released yet.)
+<!-- plugin-credits:end -->
+
+程式碼由 AI(Claude, Anthropic)協助撰寫;未使用 AI 生成的圖像素材。
+Code written with AI assistance (Claude, Anthropic); no AI-generated art assets.
+
 `index.json` 是程式檢查更新用的插件目錄,請不要手動改動格式。
 `index.json` is the plugin directory the app reads when checking for updates.
