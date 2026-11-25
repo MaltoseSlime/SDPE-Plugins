@@ -1,4 +1,41 @@
 {
 	"format": 1,
-	"plugins": {}
+	"plugins": {
+		"cards_color": {
+			"stable": null,
+			"beta": {
+				"version": "1.0.0b",
+				"min_app_version": "0.4.0b",
+				"url": "https://github.com/MaltoseSlime/SDPE-Plugins/releases/tag/cards_color-v1.0.0b"
+			},
+			"name": {
+				"zh-TW": "小遊戲擴充包",
+				"en": "Mini-Game Pack"
+			}
+		},
+		"chat_symbolic": {
+			"stable": null,
+			"beta": {
+				"version": "1.0.0b",
+				"min_app_version": "0.4.0b",
+				"url": "https://github.com/MaltoseSlime/SDPE-Plugins/releases/tag/chat_symbolic-v1.0.0b"
+			},
+			"name": {
+				"zh-TW": "聊天",
+				"en": "Chat"
+			}
+		},
+		"midi_player": {
+			"stable": null,
+			"beta": {
+				"version": "1.0.0b",
+				"min_app_version": "0.4.0b",
+				"url": "https://github.com/MaltoseSlime/SDPE-Plugins/releases/tag/midi_player-v1.0.0b"
+			},
+			"name": {
+				"zh-TW": "MIDI 播放",
+				"en": "MIDI Player"
+			}
+		}
+	}
 }
